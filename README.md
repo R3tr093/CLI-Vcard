@@ -13,7 +13,8 @@
 
 <p>  :file_folder: Find a link ton install Node <a href="https://tecadmin.net/install-latest-nodejs-npm-on-ubuntu/"> Here </a></p>
 
-<p> Right then your able to start the program upload the repository, go in your folder directory into BeCode-CLI, at the root you can start with the command below </p>
+<p> Right then your able to start the program upload the repository, go in your folder directory into CLI-Vcard
+, at the root you can start with the command below </p>
 
 <p><b><pre><code> npm init  </pre></code> </b></p>
 
