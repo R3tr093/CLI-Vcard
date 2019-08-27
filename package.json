@@ -18,5 +18,13 @@
     "multispinner": "^0.2.1"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "<p> Hello there, this repository has been created for my BeCode formation, his talking about how to use node to create an application for the CLI </p>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R3tr093/CLI-Vcard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/R3tr093/CLI-Vcard/issues"
+  },
+  "homepage": "https://github.com/R3tr093/CLI-Vcard#readme"
 }

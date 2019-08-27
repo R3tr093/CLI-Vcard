@@ -99,25 +99,25 @@ function displayCard ()
     log();
     log();
    
-    log(warningLog("                      +---++---++---++---++---++---++-++-++--     ☣☣☣  ☠ ☣☣☣   --++---++---++---++---++---+++-++-++-++--               "));
-    log(basicLog(  "                      +                                                                                                +               "));
-    log(warningLog("                      +                                      © Mossiat Jeoffrey                                        +               "));
-    log(basicLog(  "                      ☆                                                                                                ☆               "));
-    log(warningLog("                      +            🦊                  ∞   Open Source Developer    ∞                                  +               "));
-    log(basicLog(  "                      +                                                                                                +               "));
-    log(warningLog("                      +            👉  NPM     :   https://www.npmjs.com/~hamilton19                                   +               "));
-    log(basicLog(  "                      ☆                                                                                                ☆               "));
-    log(basicLog(  "                      ☆            👉  GitHub  :   https://github.com/R3tr093                                          ☆               "));
-    log(basicLog(  "                      +                                                                                                +               "));
-    log(warningLog("                      +            👉  Web     :   https://www.R3tr0.eu                                                +               "));
-    log(basicLog(  "                      ☆                                                                                                ☆               "));
-    log(warningLog("                      +            💌  Mail    :   mossiat.jeoffrey@outlook.com                                        +               "));
-    log(basicLog(  "                      +                                                                                                +               "));
-    log(warningLog("                      +            💌  Card    :   npx hamilton19                                                      +               "));
-    log(basicLog(  "                      ☆                                                                                                ☆               "));
-    log(warningLog("                      +                                                                                                +               "));
-    log(warningLog("                      +                                                                                                +               "));
-    log(warningLog("                      +---++---++---++---++---++---++-++-++--    ☣☣☣  ☠ ☣☣☣    --++---++---++---++---++---+++-++-++-++--               "));  
+    log(warningLog("                      --++---++-++-++---++---+--++-    ☣☣☣  ☠  ☣☣☣   -++---++---++---++---+++-++--"));
+      log(basicLog("                      +                                                                          +"));
+    log(warningLog("                      +                             © Mossiat Jeoffrey                           +"));
+      log(basicLog("                      ☆                                                                          ☆"));
+    log(warningLog("                      +            🦊          ∞   Open Source Developer    ∞                    +"));
+      log(basicLog("                      +                                                                          +"));
+    log(warningLog("                      +            👉  NPM     :   https://www.npmjs.com/~hamilton19             +"));
+      log(basicLog("                      ☆                                                                          ☆"));
+      log(basicLog("                      ☆            👉  GitHub  :   https://github.com/R3tr093                    ☆"));
+      log(basicLog("                      +                                                                          +"));
+    log(warningLog("                      +            👉  Web     :   https://www.R3tr0.eu                          +"));
+      log(basicLog("                      ☆                                                                          ☆"));
+    log(warningLog("                      +            💌  Mail    :   mossiat.jeoffrey@outlook.com                  +"));
+      log(basicLog("                      +                                                                          +"));
+    log(warningLog("                      +            💌  Card    :   npx hamilton19                                +"));
+      log(basicLog("                      ☆                                                                          ☆"));
+    log(warningLog("                      +                                                                          +"));
+    log(warningLog("                      +                                                                          +"));
+      log(basicLog("                      --++---++-++-++---++---+--++-    ☣☣☣  ☠  ☣☣☣    -++---++---++---++---+++-++-"));
 
 
     log();
