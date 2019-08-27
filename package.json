@@ -1,0 +1,22 @@
+{
+  "name": "@hamilton19/v-card",
+  "version": "1.0.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "v-card": "./index.js"
+  },
+  "dependencies": {
+    "boxen": "^4.1.0",
+    "chalk": "^2.4.2",
+    "figlet": "^1.2.3",
+    "figures": "^3.0.0",
+    "multispinner": "^0.2.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
