@@ -109,11 +109,11 @@ function displayCard ()
       log(basicLog("                      ☆                                                                          ☆"));
       log(basicLog("                      ☆            👉  GitHub  :   https://github.com/R3tr093                    ☆"));
       log(basicLog("                      +                                                                          +"));
-    log(warningLog("                      +            👉  Web     :   https://www.R3tr0.eu                          +"));
+    log(warningLog("                      +            👉  Web     :   https://hamilton19.herokuapp.com/             +"));
       log(basicLog("                      ☆                                                                          ☆"));
     log(warningLog("                      +            💌  Mail    :   mossiat.jeoffrey@outlook.com                  +"));
       log(basicLog("                      +                                                                          +"));
-    log(warningLog("                      +            💌  Card    :   npx hamilton19                                +"));
+    log(warningLog("                      +            💌  Card    :   npx @hamilton19/v-card                        +"));
       log(basicLog("                      ☆                                                                          ☆"));
     log(warningLog("                      +                                                                          +"));
     log(warningLog("                      +                                                                          +"));
